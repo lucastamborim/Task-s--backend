@@ -34,9 +34,6 @@ Banco de Dados: SQLite (desenvolvimento), compatível com PostgreSQL
 ## Instalação e Execução
 
 Clone o repositório
-git clone https://github.com/seuusuario/mytask-backend.git
-
-cd mytask-backend
 
 Crie e ative o ambiente virtual
 
